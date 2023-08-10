@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/MUI_SocialmediaApp/static/js/main.f96f9f57.js",
+    "static/js/787.ec09b769.chunk.js": "/MUI_SocialmediaApp/static/js/787.ec09b769.chunk.js",
+    "index.html": "/MUI_SocialmediaApp/index.html",
+    "main.f96f9f57.js.map": "/MUI_SocialmediaApp/static/js/main.f96f9f57.js.map",
+    "787.ec09b769.chunk.js.map": "/MUI_SocialmediaApp/static/js/787.ec09b769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f96f9f57.js"
+  ]
+}
